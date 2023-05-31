@@ -1,0 +1,35 @@
+@media ( max-width:296px) 
+{
+    nav ul {
+        flex-direction: column;
+    }
+    .nav-details{
+        max-width: 25%;
+        min-height: 38vh;
+       
+    }
+    .rent-menu {
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+    .backgroud{
+        flex-direction: column;
+        background-color: aqua;
+    }
+    .page-details{
+        flex-direction: column;
+        margin-top:400px;
+        
+}
+.additional-details{
+    min-height: 90vh;
+    max-width: 35%;
+}
+.report-details{
+    margin-top:350%;
+}
+.report-form{
+    margin-top: 30%;
+    min-height: 80vh;
+}
+}
